@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254" height="254" viewBox="0 0 254 254">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #111;
+        stroke: #000;
+        stroke-width: 1px;
+      }
+    </style>
+  </defs>
+  <circle id="favicon" class="cls-1" cx="127" cy="127" r="72.25"/>
+</svg>
